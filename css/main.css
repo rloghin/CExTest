@@ -1,0 +1,30 @@
+* {
+	font-family: Arial, sans-serif;
+	font-size: 11px; 
+}
+
+body {
+  min-width:357px;
+
+  overflow-x:hidden;
+  background:#000000;
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div.main {
+	height: 150px;
+	width: 400px;
+	padding: 0px;
+	margin: -5px -7px;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+div.header {
+	margin: 2px 4px;
+	height: 15px;
+	color: #9c9c9c;
+	border: 1px solid #cccccc; 
+}

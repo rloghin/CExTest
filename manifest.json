@@ -1,0 +1,12 @@
+{
+  "name": "CExTest",
+  "version": "1.1",
+  "description": "CExTest Description",
+  "browser_action": {
+    "default_icon": "img/icon.png",
+    "popup": "html/main.html"
+  },
+  "permissions": [
+    "https://ajax.googleapis.com/*"
+  ]
+}
